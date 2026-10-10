@@ -1,0 +1,13 @@
+# Bloom catalogue imagery
+
+Generated with the built-in imagegen tool. Reference: the user-supplied photograph of the flower-shaped device.
+
+## Desktop
+
+Use case: product-mockup. Create a premium editorial catalogue photograph of the exact unusual flower-shaped shisha device shown in the reference. Preserve the recognizable tall tapered ivory ceramic body, softly faceted vertical form, small rounded feet, subtle embossed botanical symbols near the lower body, and the compact dark electronic heat head partly visible at the top. The device is designed as a living floral object: an abundant asymmetrical bouquet grows naturally around the heat head, with delicate white blossoms, small warm yellow flowers, eucalyptus leaves, pale feathery grasses and sculptural dry branches. Keep flowers clear of the functional center enough that the device still reads as a shisha. Stage the complete object alone on a dark stone plinth in a near-black luxury hospitality interior with restrained champagne rim light, realistic ceramic, leaves and petals, and a faint low mist at the base. Wide horizontal 16:10 composition, whole object visible and centered, generous dark breathing room, visual style matching high-end X Experience product campaign imagery. No people, hands, text, logo, watermark, duplicate device, neon, oversized smoke cloud or redesign of the body.
+
+## Mobile
+
+Use case: product-mockup. Create a portrait-format premium editorial catalogue photograph for a mobile website card using the exact flower-shaped shisha device in the reference. Preserve the tall tapered ivory ceramic body, softly faceted vertical form, small rounded feet, subtle embossed botanical symbols near the lower body and compact dark electronic heat head at the top. An abundant yet refined asymmetrical botanical arrangement surrounds the top: delicate white blossoms, warm yellow flowers, eucalyptus leaves, pale feathery grasses and sculptural dry branches, while the functional center stays readable. Place the one complete device centered on a dark stone plinth in a near-black luxury lounge with restrained warm champagne light, realistic ceramic, leaves and petals, and only a faint low mist at the base. Show the whole object and bouquet with generous dark breathing room above and below for responsive cropping. No people, hands, text, brand, logo, watermark, extra device, neon, oversized smoke cloud or body redesign.
+
+Both selected outputs received a second imagegen edit pass that replaced monogram-like embossing with generic leaves, petals and organic curves while preserving composition and lighting.

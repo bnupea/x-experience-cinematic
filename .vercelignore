@@ -1,0 +1,16 @@
+.next
+node_modules
+out
+.tastemaker
+tmp
+tsconfig.tsbuildinfo
+.analysis-kling-frame.jpg
+catalogue-desktop.png
+catalogue-grid-desktop.png
+mobile-campaign-qa.png
+mobile-final.png
+qa-catalogue-mobile.png
+qa-hero-clean.png
+qa-hero-mobile.png
+qa-statement-desktop.png
+qa-statement-mobile.png
