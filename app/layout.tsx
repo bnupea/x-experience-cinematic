@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   applicationName: "X Experience",
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large" } },
   verification: { yandex: "077cfec1d92f52bc" },
-  icons: { icon: "/media/brand-x-mark.png" },
+  icons: { icon: "/media/x-mark.svg" },
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {

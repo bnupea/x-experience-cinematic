@@ -13,7 +13,7 @@ export function PageFooter({ content }: { content: PresentationContent }) {
 
       <div className="footer-rail">
         <a className="footer-brand" href="#top" aria-label="X Experience">
-          <Image src="/media/brand-x-mark.png" width={478} height={430} alt="" />
+          <Image src="/media/x-mark.svg" width={388} height={266} alt="" />
           <span>
             <strong translate="no">{content.brand.name}</strong>
             <small translate="no">{content.brand.descriptor}</small>

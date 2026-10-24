@@ -42,7 +42,7 @@ export function HeroFilm({ brand }: HeroFilmProps) {
       <div className="hero-v2-shade" aria-hidden="true" />
 
       <div className={`hero-brand-reveal${brandVisible ? " is-visible" : ""}`} aria-hidden={!brandVisible}>
-        <Image src="/media/brand-x-mark.png" width={478} height={430} priority alt="" />
+        <Image src="/media/x-mark.svg" width={388} height={266} priority alt="" />
         <strong translate="no">{brand.name}</strong>
         <span translate="no">{brand.descriptor}</span>
       </div>

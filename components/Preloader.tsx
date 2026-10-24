@@ -121,7 +121,7 @@ export function Preloader({ brand }: { brand: PresentationContent["brand"] }) {
         aria-label="X Experience"
       >
         <div className="preloader-brand">
-          <Image src="/media/brand-x-mark.png" width={478} height={430} alt="" priority />
+          <Image src="/media/x-mark.svg" width={388} height={266} alt="" priority />
           <strong translate="no">{brand.name}</strong>
           <span translate="no">{brand.descriptor}</span>
         </div>

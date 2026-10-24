@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 388 266" role="img" aria-label="X">
+  <defs>
+    <linearGradient id="gold-a" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9c6537"/><stop offset=".34" stop-color="#f9dfa1"/><stop offset=".63" stop-color="#d7ac70"/><stop offset="1" stop-color="#8f562e"/></linearGradient>
+    <linearGradient id="gold-b" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#8e552f"/><stop offset=".4" stop-color="#d9b67e"/><stop offset=".72" stop-color="#fff0bb"/><stop offset="1" stop-color="#ad7548"/></linearGradient>
+    <linearGradient id="gold-c" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#a46b3d"/><stop offset=".48" stop-color="#f6d99a"/><stop offset="1" stop-color="#a46b3d"/></linearGradient>
+    <linearGradient id="gold-d" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0bd"/><stop offset=".43" stop-color="#dfb77a"/><stop offset="1" stop-color="#93592f"/></linearGradient>
+  </defs>
+  <path fill="url(#gold-a)" d="M11 0h76l102 88-47 37z"/>
+  <path fill="url(#gold-b)" d="M312 0h76L175 185l24-93z"/>
+  <path fill="url(#gold-c)" d="M188 106 159 201 88 266H0z"/>
+  <path fill="url(#gold-d)" d="m244 145 144 121h-87L199 184z"/>
+</svg>

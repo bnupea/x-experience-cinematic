@@ -10,7 +10,7 @@ export function ContactExperiencePage({ locale }: { locale: Locale }) {
   return (
     <SiteFrame className="inner-page contact-page" locale={locale} skipTarget="#contact">
       <section className="contact-page-hero" data-hero>
-        <Image src="/media/brand-x-mark.png" width={478} height={430} sizes="28vw" alt="" priority />
+        <Image src="/media/x-mark.svg" width={388} height={266} sizes="28vw" alt="" priority />
         <p>{content.finale.eyebrow}</p>
         <h1>{content.finale.title}</h1>
         <span>{content.finale.body}</span>

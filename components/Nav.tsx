@@ -35,7 +35,7 @@ export function Nav({ locale, brand, navItems }: NavProps) {
   return (
     <header className="site-nav" data-nav>
       <a className="brand" href="#top" aria-label="X Experience" data-magnetic>
-        <Image src="/media/brand-x-mark.png" width={478} height={430} alt="" priority />
+        <Image src="/media/x-mark.svg" width={388} height={266} alt="" priority />
         <span translate="no">{brand.name}</span>
       </a>
 
@@ -73,7 +73,7 @@ export function Nav({ locale, brand, navItems }: NavProps) {
           <div className="mobile-menu-panel">
             <div className="mobile-menu-head">
               <a className="mobile-menu-brand" href="#top" onClick={closeMenu} aria-label="X Experience">
-                <Image src="/media/brand-x-mark.png" width={478} height={430} alt="" />
+                <Image src="/media/x-mark.svg" width={388} height={266} alt="" />
                 <span translate="no">{brand.name}</span>
               </a>
             </div>
